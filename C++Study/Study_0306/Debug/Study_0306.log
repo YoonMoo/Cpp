@@ -1,0 +1,3 @@
+﻿  Exam.cpp
+C:\Users\momoo\Desktop\study\c++\C++Study\Study_0306\Exam.cpp(41,9): warning C4101: 'sTem' :참조되지 않은 지역 변수입니다.
+  Study_0306.vcxproj -> C:\Users\momoo\Desktop\study\c++\C++Study\Debug\chp2.c++프로그래밍시작.exe
