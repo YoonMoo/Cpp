@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "chp2.c++프로그래밍시�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "chp3.데이터처리", "chp3.데이터처리\chp3.데이터처리.vcxproj", "{F20B348E-6F20-4596-A9FE-3D63F39C65D8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "chp4.복합데이터형", "chp4.복합데이터형\chp4.복합데이터형.vcxproj", "{D7E41940-0B8A-454C-A35B-3BD1FF0452BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{F20B348E-6F20-4596-A9FE-3D63F39C65D8}.Release|x64.Build.0 = Release|x64
 		{F20B348E-6F20-4596-A9FE-3D63F39C65D8}.Release|x86.ActiveCfg = Release|Win32
 		{F20B348E-6F20-4596-A9FE-3D63F39C65D8}.Release|x86.Build.0 = Release|Win32
+		{D7E41940-0B8A-454C-A35B-3BD1FF0452BC}.Debug|x64.ActiveCfg = Debug|x64
+		{D7E41940-0B8A-454C-A35B-3BD1FF0452BC}.Debug|x64.Build.0 = Debug|x64
+		{D7E41940-0B8A-454C-A35B-3BD1FF0452BC}.Debug|x86.ActiveCfg = Debug|Win32
+		{D7E41940-0B8A-454C-A35B-3BD1FF0452BC}.Debug|x86.Build.0 = Debug|Win32
+		{D7E41940-0B8A-454C-A35B-3BD1FF0452BC}.Release|x64.ActiveCfg = Release|x64
+		{D7E41940-0B8A-454C-A35B-3BD1FF0452BC}.Release|x64.Build.0 = Release|x64
+		{D7E41940-0B8A-454C-A35B-3BD1FF0452BC}.Release|x86.ActiveCfg = Release|Win32
+		{D7E41940-0B8A-454C-A35B-3BD1FF0452BC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
