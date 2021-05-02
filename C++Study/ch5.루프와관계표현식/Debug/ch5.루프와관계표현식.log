@@ -1,2 +1,3 @@
 ﻿  Exam.cpp
+C:\Users\momoo\Desktop\study\c++\C++Study\ch5.루프와관계표현식\Exam.cpp(160,6): warning C4101: 'exNun' :참조되지 않은 지역 변수입니다.
   ch5.루프와관계표현식.vcxproj -> C:\Users\momoo\Desktop\study\c++\C++Study\Debug\ch5.루프와관계표현식.exe

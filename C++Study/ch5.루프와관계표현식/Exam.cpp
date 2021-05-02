@@ -100,4 +100,75 @@ int main() {
 	//	sum[i + 1] += sum[i];
 	//	cout << i + 1 << "년 째 누적 판매량 : " << sum[i + 1] << endl;
 	//}
+
+	//7
+	//struct Car
+	//{
+	//	string manufacturer;	// 제조업체
+	//	int productionYear;		// 제작년도
+	//};
+
+	//int listCount;
+
+	//cout << "몇 대의 차를 목록으로 관리하시겠습니까?" ;
+	//cin >> listCount;
+	//Car* newCar = new Car[listCount];
+
+	//for (int i = 0; i < listCount; i++) {	
+	//	cout << "제작업체 : " ;
+	//	cin >> newCar[i].manufacturer;
+	//	cout << "제작년도 : " ;
+	//	cin >> newCar[i].productionYear;
+	//}
+
+	//cout << "현재 귀하가 보유하고 있는 자동차 목록은 다음과 같습니다." << endl;
+	//for (int i = 0; i < listCount; i++) {
+	//	cout << newCar[i].manufacturer << "형 " << newCar[i].productionYear << endl;
+	//}
+
+	// 8.
+	// cin이 문자열의 끝을 인식하는 방법
+	// cin은 빈칸, 탭, 캐리지 리턴과 같은 화이트스페이스가 있으면 그 위치에서 문자열이 끝난 것으로 간주한다.
+	// 이때 화이트스페이스는 버린다.
+
+	//int count = 0;
+	//char word[50];
+	//
+	//cout << "영어 단어들을 입려하십시오 (끝내려면 done을 입력) : " << endl;
+	//while (strcmp(word, "done"))
+	//{
+	//	cin >> word;
+	//	count++;
+	//}
+
+	//cout << "총 " << count - 1 << " 단어가 입력되었습니다." << endl;
+
+	// 9.
+	/*string word;
+	int count = 0;
+
+	cout << "영어 단어들을 입려하십시오 (끝내려면 done을 입력) : " << endl;
+	while (word != "done")
+	{
+		cin >> word;
+		count++;
+	}
+	cout << "총 " << count - 1 << " 단어가 입력되었습니다." << endl;*/
+
+	// 10
+	//int rowNum;
+	//int exNun;
+	//
+	//cout << "출력할 행의 수를 입력 : ";
+	//cin >> rowNum;
+
+	//for (int i = 0; i < rowNum; i++) {
+	//	
+	//	int j = 4;
+	//	for (; j > i; j--)
+	//		cout << ".";
+	//	for (; 0 < j + 1; j--)
+	//		cout << "*";
+	//	cout << endl;
+	//}
 }
