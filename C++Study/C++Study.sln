@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "chp4.복합데이터형", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ch5.루프와관계표현식", "ch5.루프와관계표현식\ch5.루프와관계표현식.vcxproj", "{925D7271-9524-4A53-BCCA-68004F7B5940}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ch6.분기구문과논리연산자", "ch6.분기구문과논리연산자\ch6.분기구문과논리연산자.vcxproj", "{AB056C94-A2EB-44AE-A162-18DDA669D70C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{925D7271-9524-4A53-BCCA-68004F7B5940}.Release|x64.Build.0 = Release|x64
 		{925D7271-9524-4A53-BCCA-68004F7B5940}.Release|x86.ActiveCfg = Release|Win32
 		{925D7271-9524-4A53-BCCA-68004F7B5940}.Release|x86.Build.0 = Release|Win32
+		{AB056C94-A2EB-44AE-A162-18DDA669D70C}.Debug|x64.ActiveCfg = Debug|x64
+		{AB056C94-A2EB-44AE-A162-18DDA669D70C}.Debug|x64.Build.0 = Debug|x64
+		{AB056C94-A2EB-44AE-A162-18DDA669D70C}.Debug|x86.ActiveCfg = Debug|Win32
+		{AB056C94-A2EB-44AE-A162-18DDA669D70C}.Debug|x86.Build.0 = Debug|Win32
+		{AB056C94-A2EB-44AE-A162-18DDA669D70C}.Release|x64.ActiveCfg = Release|x64
+		{AB056C94-A2EB-44AE-A162-18DDA669D70C}.Release|x64.Build.0 = Release|x64
+		{AB056C94-A2EB-44AE-A162-18DDA669D70C}.Release|x86.ActiveCfg = Release|Win32
+		{AB056C94-A2EB-44AE-A162-18DDA669D70C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

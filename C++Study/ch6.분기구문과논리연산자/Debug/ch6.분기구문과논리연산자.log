@@ -1,0 +1,2 @@
+﻿  Exam.cpp
+C:\Users\momoo\Desktop\study\c++\C++Study\ch6.분기구문과논리연산자\Exam.cpp(104): error C4700: 초기화되지 않은 'ch' 지역 변수를 사용했습니다.
